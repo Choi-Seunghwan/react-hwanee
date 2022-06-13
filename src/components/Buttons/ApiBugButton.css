@@ -1,0 +1,8 @@
+.bug-button {
+  width: 200px;
+  height: 200px;
+  font-size: 80px;
+  background: transparent;
+  border: none;
+  cursor: pointer;
+}
